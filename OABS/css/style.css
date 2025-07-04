@@ -1,0 +1,13 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.header{
+    background-color:darkcyan;
+    color:whitesmoke;
+    padding: 15px;
+    text-align: center;
+}
+.card-box{
+    margin:25px;
+}
